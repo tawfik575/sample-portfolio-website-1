@@ -18,9 +18,9 @@ This website includes the following features:
 
 ## 🛠 Installation and Setup Instructions
 
-1. git clone https://github.com/tawfik575/sample-portfolio-website-html.git
-2. cd sample-portfolio-website-html
-3. open index.html
+1. git clone https://github.com/tawfik575/sample-portfolio-website-1.git
+2. cd sample-portfolio-website-1
+3. start index.html
 
 ## Contributing
 
